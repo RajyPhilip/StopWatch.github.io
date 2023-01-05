@@ -13,6 +13,7 @@ The StopWatch app is built using HTML CSS and vanilla JavaScript .
 - This app allows users flexibility as users can also add their lap timing and it will display the laps recorded just below the stopwatch.
 - This app allows users to clear the laps recorded and start a new lap records.
 
-## Demo
+## -> GitHub hosted Link :
 
-Insert gif or link to demo
+```http 
+ https://rajyphilip.github.io/StopWatch.github.io/
