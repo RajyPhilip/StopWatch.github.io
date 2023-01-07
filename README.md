@@ -1,4 +1,4 @@
-# Stop-Watch
+# Stop-Watch ⏱
 
 The StopWatch app is built using HTML CSS and vanilla JavaScript .
 
